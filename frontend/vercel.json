@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://cardekho-backend-kh45.onrender.com/api/:path*"
+    }
+  ]
+}
